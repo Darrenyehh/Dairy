@@ -1,0 +1,21 @@
+.btn_post{
+    background-color: rgb(189, 216, 39);
+    border-radius: 25%;
+    border-style: solid;
+    border-color: gray;
+}
+.mb-4{
+    background-color: rgb(189, 216, 39);
+    text-align: center;
+    color: black;
+}
+.card-body{
+    background-color: #FFFDD0;
+}
+.card{
+    outline: none;
+}
+.textAREA{
+    
+    margin-right: 15px;
+}
